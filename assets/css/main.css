@@ -3325,7 +3325,7 @@ input, select, textarea {
 	}
 
 
-/* Image de work */
+/* Image de work/Galeria dep */
 
 	.image {
 		position: relative;
@@ -3384,7 +3384,7 @@ input, select, textarea {
 		-webkit-flex-wrap: wrap;
 		-ms-flex-wrap: wrap;
 		flex-wrap: wrap;
-		width: 45em;
+		width: 60em;
 		max-width: 100%;
 		margin: 0 auto 2em auto;
 	}
@@ -3400,7 +3400,7 @@ input, select, textarea {
 			transform: translateX(0);
 			width: 30%;
 			position: relative;
-			opacity: 2.0;
+			opacity: 1.0;
 		}
 
 			.gallery article .image {
